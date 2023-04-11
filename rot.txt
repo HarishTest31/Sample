@@ -1,1 +1,2 @@
-Build periodcally and changes should be pushed
+Build periodcally and changes should be pushe
+Poll scm supposed to be added and changes are being pushed again
